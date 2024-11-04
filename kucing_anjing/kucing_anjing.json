@@ -1,0 +1,205 @@
+[{
+    "intent": "care.cat.bathing",
+    "utterances": ["Bagaimana cara memandikan kucing dengan benar?", "Cara memandikan kucing yang benar", "Memandikan kucing dengan aman", "Apa langkah-langkah memandikan kucing?"],
+    "answers": ["Pastikan air hangat, gunakan sampo khusus kucing, dan bilas dengan lembut. Keringkan dengan handuk atau pengering rambut pada suhu rendah."]
+}, {
+    "intent": "care.dog.brushing",
+    "utterances": ["Seberapa sering saya harus menyikat bulu anjing saya?", "Berapa kali saya harus menyikat anjing saya?", "Kapan harus menyikat bulu anjing?", "Haruskah anjing disikat setiap hari?"],
+    "answers": ["Tergantung jenis bulu, tetapi secara umum anjing berbulu panjang sebaiknya disikat setiap hari dan yang berbulu pendek setidaknya dua kali seminggu."]
+}, {
+    "intent": "care.kitten.food",
+    "utterances": ["Apa makanan terbaik untuk anak kucing?", "Makanan untuk anak kucing", "Anak kucing makan apa?", "Rekomendasi makanan anak kucing"],
+    "answers": ["Anak kucing membutuhkan makanan yang kaya protein dan nutrisi esensial, seperti makanan basah atau kering khusus anak kucing."]
+}, {
+    "intent": "care.dog.nail",
+    "utterances": ["Kapan waktu terbaik untuk memotong kuku anjing?", "Berapa lama waktu untuk memotong kuku anjing?", "Kapan harus memotong kuku anjing?", "Memotong kuku anjing dengan benar"],
+    "answers": ["Potong kuku anjing setiap 3-4 minggu, atau ketika kuku mulai terdengar saat anjing berjalan di lantai keras."]
+}, {
+    "intent": "care.cat.bathing.frequency",
+    "utterances": ["Apakah aman memandikan kucing setiap minggu?", "Seberapa sering kucing boleh dimandikan?", "Bolehkah kucing dimandikan tiap minggu?", "Frekuensi memandikan kucing"],
+    "answers": ["Memandikan kucing setiap minggu tidak disarankan kecuali sangat perlu. Kucing umumnya membersihkan diri sendiri, jadi cukup memandikan setiap 4-6 minggu atau sesuai kebutuhan."]
+}, {
+    "intent": "care.dog.ear.cleaning",
+    "utterances": ["Bagaimana cara membersihkan telinga anjing dengan aman?", "Cara membersihkan telinga anjing", "Membersihkan telinga anjing dengan aman", "Langkah membersihkan telinga anjing"],
+    "answers": ["Gunakan kapas lembut yang dibasahi cairan pembersih telinga khusus anjing. Bersihkan bagian luar telinga dengan lembut, hindari memasukkan kapas terlalu dalam."]
+}, {
+    "intent": "care.cat.litter",
+    "utterances": ["Seberapa sering saya harus mengganti pasir kucing?", "Frekuensi mengganti pasir kucing", "Kapan pasir kucing harus diganti?", "Berapa kali mengganti pasir kucing?"],
+    "answers": ["Ganti pasir kucing setidaknya sekali seminggu, dan bersihkan kotoran setiap hari untuk menjaga kebersihan."]
+}, {
+    "intent": "care.dog.teeth",
+    "utterances": ["Apakah anjing perlu disikat giginya?", "Haruskah anjing disikat giginya?", "Berapa kali menyikat gigi anjing?", "Membersihkan gigi anjing perlu tidak?"],
+    "answers": ["Ya, menyikat gigi anjing secara rutin membantu mencegah penumpukan plak dan masalah gigi lainnya."]
+}, {
+    "intent": "care.cat.vomit",
+    "utterances": ["Bagaimana cara mengatasi kucing yang sering muntah?", "Kenapa kucing sering muntah?", "Mengatasi kucing muntah", "Kucing muntah, apa yang harus dilakukan?"],
+    "answers": ["Periksa pola makan dan jenis makanan kucing. Jika muntah berlanjut, konsultasikan dengan dokter hewan."]
+}, {
+    "intent": "care.dog.human.food",
+    "utterances": ["Apakah anjing boleh makan makanan manusia?", "Bolehkah anjing makan makanan manusia?", "Anjing makan makanan manusia, aman?", "Makanan manusia untuk anjing, boleh?"],
+    "answers": ["Beberapa makanan manusia aman untuk anjing, namun banyak yang berbahaya. Sebaiknya berikan makanan khusus anjing."]
+}, {
+    "intent": "care.cat.training.litterbox",
+    "utterances": ["Bagaimana cara melatih kucing menggunakan kotak pasir?", "Cara melatih kucing untuk buang air di kotak pasir", "Melatih kucing menggunakan kotak pasir", "Tips melatih kucing buang air di kotak pasir"],
+    "answers": ["Tempatkan kucing di kotak pasir setelah makan atau tidur, dan berikan pujian saat ia menggunakannya dengan benar."]
+}, {
+    "intent": "care.dog.vaccination.schedule",
+    "utterances": ["Seberapa sering anjing perlu divaksinasi?", "Berapa lama jadwal vaksinasi anjing?", "Kapan anjing harus divaksinasi?", "Frekuensi vaksinasi untuk anjing"],
+    "answers": ["Anjing memerlukan vaksinasi dasar pada usia 6-8 minggu, kemudian booster sesuai jadwal yang ditentukan dokter hewan."]
+}, {
+    "intent": "care.cat.claw.trimming",
+    "utterances": ["Apakah kucing perlu dipotong kukunya?", "Kapan kucing harus dipotong kukunya?", "Perlu memotong kuku kucing?", "Cara aman memotong kuku kucing"],
+    "answers": ["Ya, memotong kuku kucing membantu mencegah kerusakan furnitur dan cedera pada kucing."]
+}, {
+    "intent": "care.dog.barking",
+    "utterances": ["Bagaimana cara mengatasi anjing yang sering menggonggong?", "Anjing saya suka menggonggong, apa solusinya?", "Tips untuk mengurangi gonggongan anjing", "Mengapa anjing suka menggonggong?"],
+    "answers": ["Identifikasi penyebabnya, seperti kebosanan atau kecemasan, dan latih anjing dengan perintah tenang serta berikan stimulasi mental."]
+}, {
+    "intent": "care.cat.vitamin.supplements",
+    "utterances": ["Apakah kucing perlu diberi suplemen vitamin?", "Haruskah kucing diberi vitamin?", "Kucing perlu vitamin tambahan?", "Vitamin untuk kucing, apakah diperlukan?"],
+    "answers": ["Jika kucing mendapatkan makanan berkualitas, suplemen biasanya tidak diperlukan. Konsultasikan dengan dokter hewan sebelum memberikan suplemen."]
+}, {
+    "intent": "care.dog.storm.anxiety",
+    "utterances": ["Bagaimana cara mengatasi anjing yang takut petir?", "Anjing saya takut petir, apa yang harus saya lakukan?", "Mengatasi anjing yang takut suara petir", "Tips menghadapi anjing yang takut petir"],
+    "answers": ["Buat lingkungan yang tenang, berikan mainan favorit, dan hindari memaksa anjing menghadapi ketakutannya."]
+}, {
+    "intent": "care.cat.indoor.bathing",
+    "utterances": ["Apakah kucing perlu dimandikan jika tidak pernah keluar rumah?", "Kucing indoor perlu mandi?", "Apakah kucing yang tinggal di dalam rumah harus dimandikan?", "Mandikan kucing indoor, perlukah?"],
+    "answers": ["Kucing indoor jarang perlu dimandikan, kecuali jika sangat kotor atau memiliki kondisi medis tertentu."]
+}, {
+    "intent": "care.dog.chewing",
+    "utterances": ["Bagaimana cara mengatasi anjing yang suka mengunyah barang?", "Tips mengatasi anjing yang suka mengunyah benda", "Mengatasi anjing yang menggigit barang di rumah", "Anjing saya suka mengunyah, bagaimana solusinya?"],
+    "answers": ["Sediakan mainan kunyah yang aman dan latih anjing untuk membedakan antara mainan dan barang rumah tangga."]
+}, {
+    "intent": "care.cat.food.choice",
+    "utterances": ["Apakah kucing perlu diberi makanan basah atau kering?", "Makanan basah atau kering untuk kucing?", "Kucing lebih baik makan makanan basah atau kering?", "Apa yang lebih baik untuk kucing, makanan basah atau kering?"],
+    "answers": ["Kombinasi keduanya dapat memberikan nutrisi seimbang dan membantu menjaga kesehatan gigi serta hidrasi."]
+}, {
+    "intent": "care.dog.jumping.behavior",
+    "utterances": ["Bagaimana cara melatih anjing agar tidak melompat pada orang?", "Melatih anjing agar tidak melompat", "Mengatasi anjing yang suka melompat pada orang", "Anjing saya suka melompat, bagaimana cara melatihnya?"],
+    "answers": ["Abaikan anjing saat melompat dan berikan perhatian hanya saat ia duduk atau berdiri dengan tenang."]
+}, {
+    "intent": "care.cat.water.intake",
+    "utterances": ["Apakah kucing perlu diberi air minum khusus?", "Air minum seperti apa yang cocok untuk kucing?", "Haruskah kucing minum air khusus?", "Kucing perlu air minum khusus?"],
+    "answers": ["Air bersih dan segar sudah cukup. Pastikan kucing memiliki akses mudah ke air setiap saat."]
+}, {
+    "intent": "care.dog.leash.training",
+    "utterances": ["Bagaimana cara mengatasi anjing yang menarik saat berjalan dengan tali?", "Mengatasi anjing yang suka menarik tali saat berjalan", "Tips melatih anjing berjalan dengan tali", "Anjing saya menarik saat berjalan, apa yang harus dilakukan?"],
+    "answers": ["Latih anjing berjalan di samping Anda dengan memberikan hadiah saat ia berjalan dengan baik, dan berhenti berjalan jika ia menarik."]
+}, {
+    "intent": "care.cat.toys.usage",
+    "utterances": ["Apakah kucing perlu diberi mainan?", "Mainan apa yang baik untuk kucing?", "Kucing butuh mainan, benar atau tidak?", "Apakah mainan penting untuk kucing?"],
+    "answers": ["Ya, mainan membantu stimulasi mental dan fisik, serta mencegah kebosanan pada kucing."]
+}, {
+    "intent": "care.dog.stranger.anxiety",
+    "utterances": ["Bagaimana cara mengatasi anjing yang takut pada orang asing?", "Tips menghadapi anjing yang takut orang asing", "Anjing saya takut pada orang baru, apa solusinya?", "Mengatasi anjing yang cemas terhadap orang asing"],
+    "answers": ["Sosialisasikan anjing secara perlahan dengan orang baru dan berikan pujian saat ia bersikap tenang."]
+}, {
+    "intent": "care.cat.scratching.furniture",
+    "utterances": ["Bagaimana cara mengatasi kucing yang sering mencakar furnitur?", "Kucing saya suka mencakar sofa, bagaimana cara mengatasinya?", "Mengatasi kucing yang mencakar perabotan", "Tips agar kucing tidak mencakar furnitur"],
+    "answers": ["Sediakan tiang garukan atau scratching post di area yang sering dikunjungi kucing, dan latih kucing untuk menggunakannya."]
+}, {
+    "intent": "care.dog.omega.supplements",
+    "utterances": ["Apakah anjing perlu diberi suplemen omega-3?", "Manfaat suplemen omega-3 untuk anjing?", "Perlukah anjing diberi omega-3?", "Kapan anjing membutuhkan suplemen omega-3?"],
+    "answers": ["Suplemen omega-3 dapat bermanfaat untuk kesehatan kulit dan bulu anjing. Konsultasikan dengan dokter hewan sebelum memberikannya."]
+}, {
+    "intent": "care.cat.lost.appetite",
+    "utterances": ["Bagaimana cara mengatasi kucing yang tidak mau makan?", "Kucing saya tidak nafsu makan, apa solusinya?", "Mengatasi kucing yang susah makan", "Tips memberi makan kucing yang tidak mau makan"],
+    "answers": ["Periksa kesehatan kucing dan coba variasikan jenis makanan. Jika masalah berlanjut, konsultasikan dengan dokter hewan."]
+}, {
+    "intent": "care.dog.bone.treats",
+    "utterances": ["Apakah anjing boleh diberi tulang sebagai camilan?", "Tulang aman untuk anjing?", "Bolehkah anjing makan tulang?", "Jenis tulang yang aman untuk anjing"],
+    "answers": ["Hindari memberikan tulang yang dapat pecah menjadi serpihan tajam. Pilih tulang khusus anjing yang aman."]
+}, {
+    "intent": "care.cat.litter.training",
+    "utterances": ["Bagaimana cara melatih kucing agar tidak buang air sembarangan?", "Melatih kucing untuk buang air di tempatnya", "Kucing buang air sembarangan, bagaimana cara melatihnya?", "Tips melatih kucing buang air di kotak pasir"],
+    "answers": ["Pastikan kotak pasir bersih dan mudah diakses. Jika kucing tetap buang air sembarangan, konsultasikan dengan dokter hewan."]
+}, {
+    "intent": "care.dog.wet.dry.food",
+    "utterances": ["Apakah anjing perlu diberi makanan basah atau kering?", "Lebih baik makanan basah atau kering untuk anjing?", "Makanan basah vs kering untuk anjing", "Mana yang lebih sehat untuk anjing, makanan basah atau kering?"],
+    "answers": ["Kombinasi keduanya dapat memberikan nutrisi seimbang dan membantu menjaga kesehatan gigi serta hidrasi."]
+}, {
+    "intent": "care.cat.excessive.licking",
+    "utterances": ["Bagaimana cara mengatasi kucing yang sering menjilat bulunya hingga botak?", "Kucing saya sering menjilat hingga bulunya botak, apa yang harus dilakukan?", "Mengapa kucing suka menjilat bulunya?", "Mengatasi kucing yang menjilat bulu berlebihan"],
+    "answers": ["Periksa apakah ada parasit atau alergi. Jika tidak, mungkin kucing mengalami stres. Konsultasikan dengan dokter hewan."]
+}, {
+    "intent": "care.dog.breed.specific.diet",
+    "utterances": ["Apakah anjing perlu diberi makanan khusus untuk ras tertentu?", "Makanan khusus untuk ras anjing, perlu?", "Jenis makanan untuk anjing ras tertentu", "Apakah ras anjing mempengaruhi jenis makanannya?"],
+    "answers": ["Beberapa ras memiliki kebutuhan nutrisi khusus. Konsultasikan dengan dokter hewan untuk rekomendasi makanan yang tepat."]
+}, {
+    "intent": "care.cat.night.meowing",
+    "utterances": ["Bagaimana cara mengatasi kucing yang sering mengeong di malam hari?", "Kucing saya suka mengeong di malam hari, bagaimana mengatasinya?", "Mengapa kucing mengeong di malam hari?", "Mengatasi kucing yang mengeong malam-malam"],
+    "answers": ["Pastikan kucing memiliki aktivitas cukup di siang hari dan periksa apakah ada kebutuhan yang belum terpenuhi."]
+}, {
+    "intent": "care.dog.grain.free.food",
+    "utterances": ["Apakah anjing perlu diberi makanan tanpa biji-bijian (grain-free)?", "Makanan grain-free untuk anjing, perlu?", "Haruskah anjing makan makanan bebas biji-bijian?", "Keuntungan makanan grain-free untuk anjing"],
+    "answers": ["Tidak semua anjing memerlukan diet grain-free. Konsultasikan dengan dokter hewan sebelum mengubah pola makan."]
+}, {
+    "intent": "care.cat.hiding.behavior",
+    "utterances": ["Bagaimana cara mengatasi kucing yang sering bersembunyi?", "Kucing saya sering bersembunyi, apa yang harus dilakukan?", "Mengapa kucing suka bersembunyi?", "Tips menghadapi kucing yang suka bersembunyi"],
+    "answers": ["Beri kucing waktu untuk beradaptasi dan pastikan lingkungan aman serta nyaman."]
+}, {
+    "intent": "care.dog.organic.food",
+    "utterances": ["Apakah anjing perlu diberi makanan organik?", "Makanan organik untuk anjing, penting atau tidak?", "Apakah anjing memerlukan makanan organik?", "Kelebihan makanan organik untuk anjing"],
+    "answers": ["Makanan organik bukan keharusan, yang penting adalah nutrisi seimbang dan sesuai kebutuhan anjing."]
+}, {
+    "intent": "care.cat.outside.litter",
+    "utterances": ["Bagaimana cara mengatasi kucing yang sering buang air di luar kotak pasir?", "Mengapa kucing saya buang air di luar kotak pasir?", "Mengatasi kucing yang buang air sembarangan", "Kucing buang air di luar kotak pasir, apa yang harus dilakukan?"],
+    "answers": ["Pastikan kotak pasir bersih dan mudah diakses. Jika masalah berlanjut, konsultasikan dengan dokter hewan."]
+}, {
+    "intent": "care.dog.senior.diet",
+    "utterances": ["Apakah anjing perlu diberi makanan khusus untuk anjing senior?", "Makanan apa yang cocok untuk anjing tua?", "Apakah anjing tua perlu makanan khusus?", "Makanan senior untuk anjing, perlukah?"],
+    "answers": ["Anjing senior mungkin memerlukan nutrisi berbeda. Konsultasikan dengan dokter hewan untuk rekomendasi makanan yang tepat."]
+}, {
+    "intent": "care.cat.scratching.people",
+    "utterances": ["Bagaimana cara mengatasi kucing yang sering mencakar orang?", "Kucing saya sering mencakar, bagaimana mengatasinya?", "Mengapa kucing suka mencakar orang?", "Mengatasi kucing yang suka mencakar orang"],
+    "answers": ["Latih kucing untuk bermain dengan lembut dan sediakan mainan untuk menyalurkan energinya."]
+}, {
+    "intent": "care.dog.energy.diet",
+    "utterances": ["Apakah anjing perlu diberi makanan khusus untuk anjing aktif?", "Makanan untuk anjing yang aktif", "Perlukah anjing aktif makan khusus?", "Jenis makanan yang cocok untuk anjing aktif"],
+    "answers": ["Anjing aktif memerlukan kalori lebih banyak. Pilih makanan dengan kandungan energi tinggi sesuai kebutuhan."]
+}, {
+    "intent": "care.cat.climbing.curtains",
+    "utterances": ["Bagaimana cara mengatasi kucing yang sering memanjat tirai?", "Kucing saya suka memanjat tirai, bagaimana cara menghentikannya?", "Mengatasi kucing yang suka memanjat tirai", "Kucing memanjat tirai, apa solusinya?"],
+    "answers": ["Sediakan area panjat khusus untuk kucing dan alihkan perhatiannya dari tirai."]
+}, {
+    "intent": "care.dog.small.breed.diet",
+    "utterances": ["Apakah anjing perlu diberi makanan khusus untuk anjing kecil?", "Makanan untuk anjing kecil, apa yang disarankan?", "Perlukah anjing kecil diberi makanan khusus?", "Diet anjing kecil, bagaimana caranya?"],
+    "answers": ["Anjing kecil memiliki kebutuhan kalori dan nutrisi berbeda. Pilih makanan yang dirancang khusus untuk anjing kecil."]
+}, {
+    "intent": "care.cat.chewing.cables",
+    "utterances": ["Bagaimana cara mengatasi kucing yang sering menggigit kabel?", "Kucing saya suka menggigit kabel, apa solusinya?", "Mengapa kucing suka menggigit kabel?", "Cara melatih kucing agar tidak menggigit kabel"],
+    "answers": ["Sembunyikan atau lindungi kabel, dan sediakan mainan kunyah untuk kucing."]
+}, {
+    "intent": "care.dog.large.breed.diet",
+    "utterances": ["Apakah anjing perlu diberi makanan khusus untuk anjing besar?", "Makanan untuk anjing besar, perlukah khusus?", "Anjing besar makan apa?", "Diet yang cocok untuk anjing besar"],
+    "answers": ["Anjing besar memiliki kebutuhan nutrisi khusus. Pilih makanan yang dirancang untuk anjing besar."]
+}, {
+    "intent": "care.cat.stealing.food",
+    "utterances": ["Bagaimana cara mengatasi kucing yang sering mencuri makanan?", "Kucing saya sering mencuri makanan, bagaimana mengatasinya?", "Mengapa kucing suka mencuri makanan?", "Tips mencegah kucing mencuri makanan"],
+    "answers": ["Simpan makanan di tempat yang tidak dapat dijangkau kucing dan latih disiplin saat makan."]
+}, {
+    "intent": "care.dog.overweight.diet",
+    "utterances": ["Apakah anjing perlu diberi makanan khusus untuk anjing gemuk?", "Makanan untuk anjing gemuk, apa yang dianjurkan?", "Perlukah diet khusus untuk anjing gemuk?", "Bagaimana memberi makan anjing yang kelebihan berat badan?"],
+    "answers": ["Anjing gemuk memerlukan diet rendah kalori. Konsultasikan dengan dokter hewan untuk rekomendasi makanan yang tepat."]
+}, {
+    "intent": "care.cat.bed.wetting",
+    "utterances": ["Bagaimana cara mengatasi kucing yang sering buang air kecil di tempat tidur?", "Kucing saya buang air kecil di tempat tidur, apa solusinya?", "Mengatasi kucing yang buang air di tempat tidur", "Tips agar kucing tidak buang air di tempat tidur"],
+    "answers": ["Periksa kesehatan kucing dan pastikan kotak pasir bersih. Jika masalah berlanjut, konsultasikan dengan dokter hewan."]
+}, {
+    "intent": "care.dog.underweight.diet",
+    "utterances": ["Apakah anjing perlu diberi makanan khusus untuk anjing kurus?", "Makanan untuk anjing kurus, apa yang disarankan?", "Bagaimana cara memberi makan anjing yang kurus?", "Diet untuk anjing kurus, perlu apa?"],
+    "answers": ["Anjing kurus mungkin memerlukan kalori lebih banyak. Konsultasikan dengan dokter hewan untuk rekomendasi makanan yang tepat."]
+}, {
+    "intent": "care.cat.post.meal.vomit",
+    "utterances": ["Bagaimana cara mengatasi kucing yang sering muntah setelah makan?", "Kucing saya muntah setelah makan, apa yang harus dilakukan?", "Mengapa kucing muntah setelah makan?", "Mengatasi kucing muntah setelah makan"],
+    "answers": ["Periksa porsi makan kucing dan pastikan makanan dikunyah dengan baik. Jika muntah berlanjut, bawa ke dokter hewan."]
+}, {
+    "intent": "care.dog.pregnant.diet",
+    "utterances": ["Apakah anjing perlu diberi makanan tambahan saat hamil?", "Makanan untuk anjing hamil, apa yang disarankan?", "Haruskah anjing hamil makan lebih banyak?", "Diet untuk anjing yang sedang hamil"],
+    "answers": ["Ya, berikan makanan kaya nutrisi yang dirancang khusus untuk anjing hamil."]
+}]
+
+
+ 
+
